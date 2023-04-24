@@ -1,0 +1,17 @@
+.navbar {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0px 15px;
+    background-color: aliceblue;
+  }
+  
+  .navbar__links {
+    display: flex;
+    align-items: center;
+  }
+  .navbar__items {
+    padding: 0px 10px;
+  }
